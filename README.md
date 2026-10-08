@@ -244,7 +244,7 @@ plt.show()
 </details>
 
 **Output Visualisasi:**  
-![Hasil Eksekusi Visualisasi](visualisasi_square.jpg)
+![Hasil Eksekusi Kode](visualisasi_square.png)
 
 ---
 
