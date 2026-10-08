@@ -1,7 +1,7 @@
 # Kumpulan Tugas Konsep Jaringan
 
-[Nama Kamu]  
-NRP [NRP Kamu]
+Nama : Ahmad Syahani
+NRP  : 3125600058
 
 ## Tugas Bab 1
 
